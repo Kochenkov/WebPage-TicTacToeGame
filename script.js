@@ -250,3 +250,4 @@ function checkCenter() {
 		if (a5=='') {cellClick('c5',a5)}
 	}
 }
+
